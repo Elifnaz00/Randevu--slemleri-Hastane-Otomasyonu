@@ -1,0 +1,23 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Kaydı.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormGiris.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Giris_Ekranı.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Hasta_Giris_Formu.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormBilgiDüzenle.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.DoktorGiris.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormBranşTanımla.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormDoktorBilgiDüzenle.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormDoktorTanımla.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormDuyurular.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormRandevuListe.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormSekreterEkranı.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormSekreterGiris.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.FormDoktorGiris.resources
